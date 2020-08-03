@@ -7275,7 +7275,10 @@ Labels
   background-color: #5ac146; }
 
 .label-info {
-  background-color: #137eff; }
+  background-color: #ffbc34; }
+
+.label-yellow {
+  background-color: #ffbc34; }
 
 .label-warning {
   background-color: #ffbc34; }
